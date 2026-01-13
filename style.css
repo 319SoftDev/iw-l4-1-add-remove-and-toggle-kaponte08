@@ -44,3 +44,16 @@ body {
 .hidden {
   display: none;
 }
+
+.bg-color{
+  background-color: #d3eef3;
+}
+
+.dmBG{
+  background-color: #0C0830;
+  color:white;
+}
+.ibxDM{
+  background-color: #2c2852;
+  color: snow !important;
+}
